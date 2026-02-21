@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+scipy
+# Visualization
+matplotlib
+seaborn
+plotly
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+# Stats
+statsmodels
+
